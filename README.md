@@ -55,3 +55,8 @@ O repositório está sendo atualizado continuamente à medida que o bootcamp ava
 ## 🤝 Contribuição
 
 Este repositório é primariamente para fins de estudo pessoal. No entanto, sugestões e correções são sempre bem-vindas via Pull Requests.
+
+## Materiais para consulta externa
+
+* https://github.com/cami-la/collections-java-api-2023
+* https://www.devmedia.com.br/java-bigdecimal-trabalhando-com-mais-precisao/30286#:~:text=A%20classe%20BigDecimal%20trabalha%20com,valor%20usando%20a%20base%20decimal
